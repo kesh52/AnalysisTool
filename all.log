@@ -1,0 +1,11 @@
+2016-07-21 13:22:47.944 [main] INFO  de.thm.icampus.AnalysisTool.Demo - Start application
+2016-07-21 13:22:47.953 [main] INFO  de.thm.icampus.AnalysisTool.Demo - Start parsing quality model
+2016-07-21 13:22:48.303 [main] INFO  de.thm.icampus.AnalysisTool.Demo - Quality model successfully parsed.
+2016-07-21 13:22:48.304 [main] INFO  de.thm.icampus.AnalysisTool.Demo - Start parsing PHPLOC report.
+2016-07-21 13:22:48.312 [main] INFO  de.thm.icampus.AnalysisTool.Demo - PHPLOC report successfully parsed.
+2016-07-21 13:22:48.313 [main] INFO  de.thm.icampus.AnalysisTool.Demo - Start parsing PHPCPD report.
+2016-07-21 13:22:48.357 [main] INFO  de.thm.icampus.AnalysisTool.Demo - DUPLICATION RATE: 2.2192547373775913
+2016-07-21 13:22:48.358 [main] INFO  de.thm.icampus.AnalysisTool.Demo - PHPCPD report successfully parsed.
+2016-07-21 13:22:48.370 [main] INFO  de.thm.icampus.AnalysisTool.Demo - Start evaluate quality model
+2016-07-21 13:22:48.497 [main] INFO  de.thm.icampus.AnalysisTool.Demo - Stop evaluate quality model
+2016-07-21 13:22:48.498 [main] INFO  de.thm.icampus.AnalysisTool.Demo - Stop application
